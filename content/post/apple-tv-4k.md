@@ -1,15 +1,13 @@
 ---
 title: "Apple TV 4k"
 date: 2017-10-05
-categories:
-- category
-- subcategory
 tags:
 - apple
 keywords:
 - tech
 - apple
-thumbnailImage: https://res.cloudinary.com/rayjohnson/image/upload/v1509780147/apple_tv_mehpub.jpg
+thumbnailImage: https://res.cloudinary.com/rayjohnson/image/upload/c_scale,w_140/v1509780147/apple_tv_mehpub.jpg
+#thumbnailImage: https://res.cloudinary.com/rayjohnson/image/upload/v1509780147/apple_tv_mehpub.jpg
 #coverImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city.jpg
 ---
 

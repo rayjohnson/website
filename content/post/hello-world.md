@@ -2,7 +2,7 @@
 title: "Hello World"
 date: 2017-09-15
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/rayjohnson/image/upload/v1509753805/say-hello_rn6izo.jpg
+thumbnailImage: https://res.cloudinary.com/rayjohnson/image/upload/c_scale,w_140/v1509753805/say-hello_rn6izo.jpg
 coverImage: https://res.cloudinary.com/rayjohnson/image/upload/v1509753805/say-hello_rn6izo.jpg
 coverMeta: out
 ---
