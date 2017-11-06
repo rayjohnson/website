@@ -13,7 +13,6 @@ keywords:
 - Google Analytics
 - Github
 - Github pages
-draft: true
 ---
 
 I built this new blog with [Hugo](http://gohugo.io).  It is a fairly new tool under active development that is already powerful and shows lots of promise.  More importantly it is perfect for a developer to get started without a lot of blogging experience.
