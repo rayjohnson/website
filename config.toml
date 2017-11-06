@@ -18,7 +18,7 @@ defaultContentLanguage = "en-us"
 title = "Ray Johnson's Website"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "ray-johnsons-website"
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-109291119-1"
 paginate = 7
 canonifyurls = true
 

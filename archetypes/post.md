@@ -1,5 +1,7 @@
 ---
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
+thumbnailImagePosition: left
+#thumbnailImage: //example.com/image.jpg
 date: {{ .Date }}
 categories:
 - category
@@ -9,7 +11,6 @@ tags:
 - tag2
 keywords:
 - tech
-#thumbnailImage: //example.com/image.jpg
 #coverImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city.jpg
 draft: true
 ---

@@ -1,15 +1,18 @@
 ---
 title: "Apple TV 4k"
+thumbnailImagePosition: left
+thumbnailImage: https://res.cloudinary.com/rayjohnson/image/upload/c_scale,w_140/v1509780147/apple_tv_mehpub.jpg
 date: 2017-10-05
 tags:
 - apple
 keywords:
 - tech
 - apple
-thumbnailImage: https://res.cloudinary.com/rayjohnson/image/upload/c_scale,w_140/v1509780147/apple_tv_mehpub.jpg
-#thumbnailImage: https://res.cloudinary.com/rayjohnson/image/upload/v1509780147/apple_tv_mehpub.jpg
-#coverImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city.jpg
+- apple tv
 ---
+
+Well Apple has blessed us with a new Apple TV.  But I'm still very much wanting...
+<!--more-->
 
 I've had an Apple TV since the first version.  Apple makes simple products and for when I'm kicking my feet up and relaxing with the TV the one thing I want is for it to be simple.  I remember getting my first Tivo and how it changed my life forever!  Since then I've tried many different products - but I knew apple would make it simple.  They did!  I still play with things like Kodi on occasion - but nothing beats the Apple laid back experience.
 
