@@ -1,7 +1,7 @@
 ---
 title: "Hugo"
 thumbnailImagePosition: left
-thumbnailImage: http://res.cloudinary.com/rayjohnson/image/upload/c_scale,w_140/v1509992599/hugo-logo_bbz8x0.png
+thumbnailImage: http://res.cloudinary.com/rayjohnson/image/upload/c_lpad,h_140,w_140/v1509992599/hugo-logo_bbz8x0.png
 date: 2017-10-14
 tags:
 - coding
@@ -66,14 +66,13 @@ So I may have a URL for the Hugo logo like this:
 ```
 http://res.cloudinary.com/rayjohnson/image/upload/v1509992599/hugo-logo_bbz8x0.png
 ```
-I can scale the image by just doing this:
+I can scale the image to fit by just doing this:
 ```
-http://res.cloudinary.com/rayjohnson/image/upload/c_scale,w_140/v1509992599/hugo-logo_bbz8x0.png
+http://res.cloudinary.com/rayjohnson/image/upload/c_lpad,h_140,w_140/v1509992599/hugo-logo_bbz8x0.png
 ```
 
-The part of the URL that says `c_scale,w_140/` transforms the image for you.  There are
-many other transformations you can do and it is way easier then doing this manually in
-a photo editor!
+The part of the URL that says `c_lpad,h_140,w_140/` transforms the image for you.  In this case I needed to scale the image down in the x axis.  However, I needed to pad the image in the y axis
+to make it fit 140 x 140.  There are many other transformations you can do and it is way easier then doing this manually in a photo editor!
 
 
 ### Summary

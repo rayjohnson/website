@@ -5,7 +5,7 @@ DRAFTS := -D
 
 publish:  ## Publish the website into the rayjohnson.github.io repository
 	@hugo
-	cd public; \
+	@cd public; \
 		git add .; \
 		git commit -m "rebuilding site: `date`"; \
 		git push; \
