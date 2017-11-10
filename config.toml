@@ -22,6 +22,8 @@ googleAnalytics = "UA-109291119-1"
 paginate = 7
 canonifyurls = true
 
+rssLimit = 20
+
 [permalinks]
   post = "/:year/:month/:slug/"
 
@@ -32,6 +34,7 @@ canonifyurls = true
 
 [author]
   name = "Ray Johnson"
+  email = "ray.johnson@gmail.com"
   bio = "Technology Executive"
   job = "Your job title"
   location = "California"
