@@ -10,7 +10,6 @@ tags:
 keywords:
 - home automation
 #coverImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city.jpg
-draft: true
 ---
 
 Like many geeks I like to play around with home automation.  But the sad sad truth of it is that few solutions are very reliable or resilient.  They end up causing more pain than gain.  However, 
@@ -22,7 +21,7 @@ The thing I hate about technology at home is when it breaks.  I am tech support 
 
 I know I'm not alone - I've had many friends show me some cool automation thing that had.  Like opening the garage door with their phone - only to have to call their wife to have them close the door manually because something went wrong.
 
-The problem with many of the new and very cool home automation systems is they usually require wifi and/or cloud services.  If your wifi goes down your smart home is a dumb as a rock.
+The problem with many of the new and very cool home automation systems is they usually require wifi and/or cloud services.  If your wifi goes down your smart home is as dumb as a rock.
 
 <iframe style="width:120px;height:240px;" align="right" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=rayjohnson-20&marketplace=amazon&region=US&placement=B00U5PAQT0&asins=B00U5PAQT0&linkId=0b9e2302feff8a4687e47e650b513d1c&show_border=true&link_opens_in_new_window=true"></iframe>It is often said "the best technology disappears" - meaning it because something you never have to think about.  Well one of the best examples of that in home automation has to be the siomple light sensing switch.  Motion sensor lights that turn on when you open a closet.  Or dusk-till-dawn lights that keep your garden or driveway light up at night but not during the day.
 
