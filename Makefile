@@ -2,6 +2,7 @@
 
 # Set this to view drafts when viewing locally - remove to see what will be published
 DRAFTS := -D
+PID_FILE := .server.PID
 
 publish:  ## Publish the website into the rayjohnson.github.io repository
 	@hugo
@@ -12,16 +13,17 @@ publish:  ## Publish the website into the rayjohnson.github.io repository
 		cd ..
 
 
-server.PID:
-	@hugo server $(DRAFTS) --disableFastRender --quiet  & echo $$! > $@;
+$(PID_FILE):
+	@hugo server $(DRAFTS) --disableFastRender --quiet  & echo $$! > $(PID_FILE)
 
 .PHONY: start 
-start: server.PID ## Start the hugo server for local viewing
+start: $(PID_FILE) ## Start the hugo server for local viewing
 
 .PHONY: stop
-stop: server.PID  ## Stop the hugo server
-	@kill `cat $<` && rm $<
-
+stop: $(PID_FILE)  ## Stop the hugo server
+	@-kill `[[ -f $(PID_FILE) ]] && cat $(PID_FILE)` 2>/dev/null || true
+	@rm $(PID_FILE)
+  
 .PHONY: help
 help:   ## Display this help message
 	@grep -E '^[ a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | \
